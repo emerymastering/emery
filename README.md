@@ -13,7 +13,7 @@
 
 ---
 
-<div style="flex">
+<div class="flex-inline">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/emerymastering)](https://git.io/awesome-stats-card)
 
